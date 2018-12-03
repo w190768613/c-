@@ -1,0 +1,16 @@
+D:\C# program\webspider\webspider\bin\Debug\webspider.exe.config
+D:\C# program\webspider\webspider\bin\Debug\webspider.exe
+D:\C# program\webspider\webspider\bin\Debug\webspider.pdb
+D:\C# program\webspider\webspider\bin\Debug\HtmlAgilityPack.dll
+D:\C# program\webspider\webspider\bin\Debug\Newtonsoft.Json.dll
+D:\C# program\webspider\webspider\bin\Debug\HtmlAgilityPack.pdb
+D:\C# program\webspider\webspider\bin\Debug\HtmlAgilityPack.xml
+D:\C# program\webspider\webspider\bin\Debug\Newtonsoft.Json.pdb
+D:\C# program\webspider\webspider\bin\Debug\Newtonsoft.Json.xml
+D:\C# program\webspider\webspider\obj\Debug\webspider.Form1.resources
+D:\C# program\webspider\webspider\obj\Debug\webspider.Form2.resources
+D:\C# program\webspider\webspider\obj\Debug\webspider.Properties.Resources.resources
+D:\C# program\webspider\webspider\obj\Debug\webspider.csproj.GenerateResource.Cache
+D:\C# program\webspider\webspider\obj\Debug\webspider.exe
+D:\C# program\webspider\webspider\obj\Debug\webspider.pdb
+D:\C# program\webspider\webspider\obj\Debug\webspider.csprojResolveAssemblyReference.cache
