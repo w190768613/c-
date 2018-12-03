@@ -1,0 +1,42 @@
+D:\c++ program\DataAnalysis\DataAnalysis\bin\Debug\DataAnalysis.exe.config
+D:\C# program\DataAnalysis\DataAnalysis\bin\Debug\DataAnalysis.exe.config
+D:\C# program\DataAnalysis\DataAnalysis\bin\Debug\DataAnalysis.exe
+D:\C# program\DataAnalysis\DataAnalysis\bin\Debug\DataAnalysis.pdb
+D:\C# program\DataAnalysis\DataAnalysis\bin\Debug\JiebaNet.Analyser.dll
+D:\C# program\DataAnalysis\DataAnalysis\bin\Debug\JiebaNet.Segmenter.dll
+D:\C# program\DataAnalysis\DataAnalysis\bin\Debug\Newtonsoft.Json.dll
+D:\C# program\DataAnalysis\DataAnalysis\bin\Debug\Newtonsoft.Json.xml
+D:\C# program\DataAnalysis\DataAnalysis\obj\Debug\DataAnalysis.Properties.Resources.resources
+D:\C# program\DataAnalysis\DataAnalysis\obj\Debug\DataAnalysis.csproj.GenerateResource.Cache
+D:\C# program\DataAnalysis\DataAnalysis\obj\Debug\DataAnalysis.exe
+D:\C# program\DataAnalysis\DataAnalysis\obj\Debug\DataAnalysis.pdb
+D:\C# program\DataAnalysis\DataAnalysis\obj\Debug\DataAnalysis.Form1.resources
+D:\C# program\DataAnalysis\DataAnalysis\obj\Debug\DataAnalysis.Form2.resources
+C:\Users\user\Desktop\DataAnalysis\DataAnalysis\bin\Debug\DataAnalysis.exe.config
+C:\Users\user\Desktop\DataAnalysis\DataAnalysis\bin\Debug\DataAnalysis.exe
+C:\Users\user\Desktop\DataAnalysis\DataAnalysis\bin\Debug\DataAnalysis.pdb
+C:\Users\user\Desktop\DataAnalysis\DataAnalysis\bin\Debug\JiebaNet.Analyser.dll
+C:\Users\user\Desktop\DataAnalysis\DataAnalysis\bin\Debug\JiebaNet.Segmenter.dll
+C:\Users\user\Desktop\DataAnalysis\DataAnalysis\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\DataAnalysis\DataAnalysis\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\DataAnalysis\DataAnalysis\obj\Debug\DataAnalysis.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\DataAnalysis\DataAnalysis\obj\Debug\DataAnalysis.Form1.resources
+C:\Users\user\Desktop\DataAnalysis\DataAnalysis\obj\Debug\DataAnalysis.Form2.resources
+C:\Users\user\Desktop\DataAnalysis\DataAnalysis\obj\Debug\DataAnalysis.Properties.Resources.resources
+C:\Users\user\Desktop\DataAnalysis\DataAnalysis\obj\Debug\DataAnalysis.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\DataAnalysis\DataAnalysis\obj\Debug\DataAnalysis.exe
+C:\Users\user\Desktop\DataAnalysis\DataAnalysis\obj\Debug\DataAnalysis.pdb
+D:\C# program\data\DataAnalysis\bin\Debug\DataAnalysis.exe.config
+D:\C# program\data\DataAnalysis\obj\Debug\DataAnalysis.exe
+D:\C# program\data\DataAnalysis\obj\Debug\DataAnalysis.pdb
+D:\C# program\data\DataAnalysis\bin\Debug\DataAnalysis.exe
+D:\C# program\data\DataAnalysis\bin\Debug\DataAnalysis.pdb
+D:\C# program\data\DataAnalysis\bin\Debug\JiebaNet.Analyser.dll
+D:\C# program\data\DataAnalysis\bin\Debug\JiebaNet.Segmenter.dll
+D:\C# program\data\DataAnalysis\bin\Debug\Newtonsoft.Json.dll
+D:\C# program\data\DataAnalysis\bin\Debug\Newtonsoft.Json.xml
+D:\C# program\data\DataAnalysis\obj\Debug\DataAnalysis.csprojResolveAssemblyReference.cache
+D:\C# program\data\DataAnalysis\obj\Debug\DataAnalysis.Form1.resources
+D:\C# program\data\DataAnalysis\obj\Debug\DataAnalysis.Form2.resources
+D:\C# program\data\DataAnalysis\obj\Debug\DataAnalysis.Properties.Resources.resources
+D:\C# program\data\DataAnalysis\obj\Debug\DataAnalysis.csproj.GenerateResource.Cache
