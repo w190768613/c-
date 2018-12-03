@@ -1,0 +1,9 @@
+D:\C# program\PhotoFactory\PhotoFactory\bin\Debug\PhotoFactory.exe.config
+D:\C# program\PhotoFactory\PhotoFactory\bin\Debug\PhotoFactory.exe
+D:\C# program\PhotoFactory\PhotoFactory\bin\Debug\PhotoFactory.pdb
+D:\C# program\PhotoFactory\PhotoFactory\obj\Debug\PhotoFactory.Form1.resources
+D:\C# program\PhotoFactory\PhotoFactory\obj\Debug\PhotoFactory.Properties.Resources.resources
+D:\C# program\PhotoFactory\PhotoFactory\obj\Debug\PhotoFactory.csproj.GenerateResource.Cache
+D:\C# program\PhotoFactory\PhotoFactory\obj\Debug\PhotoFactory.exe
+D:\C# program\PhotoFactory\PhotoFactory\obj\Debug\PhotoFactory.pdb
+D:\C# program\PhotoFactory\PhotoFactory\obj\Debug\PhotoFactory.csprojResolveAssemblyReference.cache
